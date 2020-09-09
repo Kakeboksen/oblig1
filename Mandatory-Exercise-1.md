@@ -8,6 +8,7 @@
 1. We will create a GitLab group for each team, e.g., `Wed10A_1` for each team and invite the members of each team to that group. Only team members, teachers and teaching assistants will have access to material in the group.
 1. Each mandatory exercise will stretch over two weeks. During the first week, you will develop code and create merge requests for it on GitLab. In the second week, you will discuss your code and document the results of your discussion on GitLab. This is your delivery. The entire process is illustrate (for two students) in [a video posted on Vimeo](https://vimeo.com/454435193/7421a85233). **Watch this video before you read on, otherwise what follows will probably seem very confusing.**
 1. **One** team member creates a GitLab Project (repository) within the team's GitLab group as shown in the video. This team member also adds the `.gitignore` file (as a copy of `gitignore_default` from the `inf200-course-materials/technical`) on the master branch and pushes it back to GitLab.
+1. **When committing to Git, make sure that you never commit files from the `.idea` directory!**
 1. **After that is done**, all other team members clone the repository to their computers.
 1. Each mandatory exercise will consist of four tasks, Task A through Task D. Each team member should prepare code for one of the tasks (but discuss with each other while solving the tasks!).
     1. Create a branch for each task, e.g., called `ex01_taskA` for Task A in Exercise 1.
