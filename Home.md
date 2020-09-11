@@ -7,3 +7,6 @@ The page is work in progress.
 ## Mandatory exercises
 
 1. [Mandatory Exercise 1](ex01), Deadline Friday 18 September 18.00 CEST
+
+1. [Test link full](https://gitlab.com/nmbu.no/emner/inf200/h2020/inf200-course-materials/-/wikis/Mandatory-Exercise-1)
+1. [Test link short](Mandatory-Exercise-1)
